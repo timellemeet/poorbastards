@@ -1,10 +1,13 @@
 'use strict';
 const express = require('express');
 const app = express();
+const favicon = require('serve-favicon');
 
 
 app.use(require('./page/model.js'));
 app.use(express.static(__dirname + '/public'));
+app.use(favicon(__dirname + '/public/favicon.ico'));
+
 //templating
 const ECT = require('ect'),
     ectRenderer = ECT({
