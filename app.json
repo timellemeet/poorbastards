@@ -4,12 +4,6 @@
     "scripts": {},
     "env": {},
     "formation": {},
-    "addons": [
-        {
-            "plan": "mongolab:sandbox",
-            "as": "MONGO"
-          }
-  ],
     "buildpacks": [
         {
             "url": "heroku/nodejs"
