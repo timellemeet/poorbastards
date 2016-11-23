@@ -1,32 +1,62 @@
 [
     {
-        "lord": "bontje"
+        "lord": "bontje",
+        "shift1": 0,
+        "shift2": 0,
+        "shift3": 0
     },
     {
-        "lord": "mohitler"
+        "lord": "mohitler",
+        "shift1": 0,
+        "shift2": 0,
+        "shift3": 0
     },
     {
-        "lord": "ellemeets"
+        "lord": "ellemeets",
+        "shift1": 0,
+        "shift2": 0,
+        "shift3": 0
     },
     {
-        "lord": "helmink"
+        "lord": "helmink",
+        "shift1": 0,
+        "shift2": 0,
+        "shift3": 0
     },
     {
-        "lord": "hoogetem"
+        "lord": "hoogetem",
+        "shift1": 0,
+        "shift2": 0,
+        "shift3": 0
     },
     {
-        "lord": "jolla"
+        "lord": "jolla",
+        "shift1": 0,
+        "shift2": 0,
+        "shift3": 0
     },
     {
-        "lord": "brauwen"
+        "lord": "brauwen",
+        "shift1": 0,
+        "shift2": 0,
+        "shift3": 0
     },
     {
-        "lord": "kopvanzuid"
+        "lord": "kopvanzuid",
+        "shift1": 0,
+        "shift2": 0,
+        "shift3": 0
     },
     {
-        "lord": "dogwhisperer"
+        "lord": "dogwhisperer",
+        "shift1": 0,
+        "shift2": 0,
+        "shift3": 0
     },
     {
-        "lord": "vlietje"
+        "lord": "vlietje",
+        "shift1": 0,
+        "shift2": 0,
+        "shift3": 0
     },
 ]

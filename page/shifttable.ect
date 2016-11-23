@@ -1,0 +1,42 @@
+<% if @lords?.length : %>
+<table class="table shifttable .table-hover ">
+    <thead>
+        <tr>
+            <th>
+                Lord
+            </th>
+            <th>
+                Shift 1
+            </th>
+            <th>
+                Shift 2
+            </th>
+            <th>
+                Shift 3
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <% for lord in @lords : %>
+        <tr>
+            <td>
+                <%- lord.lord %>
+            </td>
+            <td>
+                <%- lord.shift1 %>
+            </td>
+            <td>
+                <%- lord.shift2 %>
+            </td>
+            <td>
+                <%- lord.shift3 %>
+            </td>
+        </tr>
+        <% end %>
+    </tbody>
+</table>
+<% else : %>
+<p>
+    Table is empty
+</p>
+<% end %>
