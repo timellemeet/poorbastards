@@ -1,3 +1,4 @@
+'use_strict'
 //declare router
 const router = require('express').Router();
 
